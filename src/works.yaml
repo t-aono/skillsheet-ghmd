@@ -1,0 +1,27 @@
+- slug: carshare
+  title: カーシェアサイト開発支援
+  imageUrl: "/work.png"
+  roles:
+    - Next.js
+    - AWS
+  description: |-
+    フロントエンドの開発。
+    サーバーレスな仕組み。
+- slug: pjmanage
+  title: プロジェクト管理システムの新規開発
+  imageUrl: "/work.png"
+  roles:
+    - Angular
+    - Firebase
+  description: |-
+    顧客や売上の管理機能。
+    外部APIとの連携。
+- slug: nursery
+  title: 一時保育の予約管理サービス
+  imageUrl: "/work.png"
+  roles:
+    - Laravel
+    - Vue.js
+  description: |-
+    フロントとバックエンドの開発。
+    UIの検討や提案も。
