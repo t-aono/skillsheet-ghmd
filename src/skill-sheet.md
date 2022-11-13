@@ -151,7 +151,7 @@ toBの業務系WebアプリやtoCのWebサービスの開発プロジェクト�
 	- Cloud Functions, AWS Lambda での Node.js 使用経験もあり。
 
 - PHP
-	- LAMP環境でWebアプリの開発を行う際にでよく使っていた。経験年数は4年くらい。
+	- LAMP環境での開発を行う際にでよく使っていた。経験年数は4年くらい。
 	- Laravel を使ったWebアプリ開発も経験あり。
 
 ### ソフトスキル
