@@ -30,3 +30,10 @@
 【サンプル】
 https://kwappa.github.io/logs/resume/
 https://www.notion.so/Call-for-Job-Offers-6406f6ec4ecc4d51a2a99462b5bda032
+
+
+
+＜デプロイ＞
+ホスティング先：Firebase Hosting
+Firebase設定からGitHubと連携　→　コミット時に自動ビルド
+参考：https://kimuralog.com/?p=632
