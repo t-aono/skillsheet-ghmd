@@ -148,10 +148,10 @@ toBの業務系WebアプリやtoCのWebサービスの開発プロジェクト�
 - JavaScript / TypeScript
 	- SPAの開発でよく使う。経験年数はJSが4年、TSが2年くらい。
 	- Vue.js, React, Angular などを使ったフロントエンド開発も経験あり。
-    - Node.js を使ったバックエンドや Firebase Functions の実装経験あり。
+	- Cloud Functions, AWS Lambda での Node.js 使用経験もあり。
 
 - PHP
-	- MPAのWebアプリの開発でよく使っていた。経験年数は4年くらい。
+	- LAMP環境でWebアプリの開発を行う際にでよく使っていた。経験年数は4年くらい。
 	- Laravel を使ったWebアプリ開発も経験あり。
 
 ### ソフトスキル
