@@ -6,22 +6,21 @@ module.exports = {
   },
   plugins: [
     {
-      //   resolve: `gatsby-source-rss-feed`,
-      //   options: {
-      //     url: `https://zenn.dev/aono/feed`,
-      //     name: `Zenn`,
-      //   },
-      // },
-      // {
       resolve: `gatsby-source-filesystem`,
       options: {
-        // name: "works",
-        // path: `${__dirname}/src/works.yaml`,
         path: `${__dirname}/src/skill-sheet.md`,
       },
     },
-    // "gatsby-transformer-yaml",
     `gatsby-transformer-remark`,
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-HPE8D90RHK"],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
   ],
 };
