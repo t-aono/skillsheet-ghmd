@@ -3,7 +3,7 @@
 # 職務経歴書
 
 <div style="text-align:right;opacity:0.8;">
-    更新日: 2023/9/20
+    更新日: 2023/10/31
 </div>
 
 ## プロフィール
@@ -36,13 +36,13 @@ Webアプリケーションの開発を行うエンジニアです。
 ### プロジェクト履歴
 
 1. ZABoooNにて船員労務管理SaaS(Maritime7)の開発支援
-    - 2022/12 ~ : 8ヶ月以上
+    - 2022/12 ~ : 10ヶ月以上
     - エンジニア4名のチームにて労務管理機能の実装や改修を担当
     - ビジネスサイドのメンバーとも会話をしながら仕様の検討
     - Vue.js, Vuex ORM, TypeScript, Laravel, MySQL などを使用
 
 2. Logos&Pathos Consultingにてシステム開発支援
-    - 2022/3 ~ : 1年6ヶ月以上
+    - 2022/3 ~ : 1年7ヶ月以上
     - プロジェクト管理システムの機能追加等を担当
     - 経験が少ない技術（FWや外部API）をキャッチアップしながら開発
     - TypeScript, Angular, RxJS, Firebase, Node.js などを使用
