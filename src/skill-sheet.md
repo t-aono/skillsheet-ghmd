@@ -156,15 +156,13 @@ Webアプリケーションの開発を行うエンジニアです。
 
 - Zenn : <a href="https://zenn.dev/aono" target="_blank">https://zenn.dev/aono</a>
 - GitHub : <a href="https://github.com/t-aono" target="_blank">https://github.com/t-aono</a>  
-<div style="padding-left:2rem;">
+<div style="padding:0 2rem;">
     <div>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-aono&theme=github" />
     </div>
-    <div style="display:flex;margin-bottom:6px;column-gap:6px;">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t-aono&theme=github" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t-aono&theme=github" />
-    </div>
-    <div style="display:flex;margin-bottom:6px;column-gap:6px;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-aono&theme=github" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t-aono&theme=github&utcOffset=8" />
     </div>
