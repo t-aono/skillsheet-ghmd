@@ -3,18 +3,14 @@
 # 職務経歴書
 
 <div style="text-align:right">
-    更新日: 2023/11/29
+    更新日: 2023/12/09
 </div>
 
-## プロフィール
+## 自己紹介
 
-Webアプリケーションの開発を行うエンジニアです。
-現在はフリーランスとして業務委託で仕事を受けており、エンジニア歴としては6年くらいです。
-
-最近はリモートで関東の方とコミュニケーションを取りながら開発を行っています。
-
-これまでにWebアプリやWebサービスの開発プロジェクトに参加し、
-実装やテスト、設計、要件定義、仕様の擦り合わせ等を経験してきました。
+Webアプリ開発のフロントエンド、バックエンドを幅広く対応できます。  
+TypeScriptでのコーディングやReact, Vueを使ったSPAの構築が得意です。  
+Node.jsやLaravelを使ったバックエンド側の実装経験もあります。
 
 <br/>
 
@@ -25,22 +21,22 @@ Webアプリケーションの開発を行うエンジニアです。
 以前は営業職でしたが、エンジニア職に魅力を感じ2017年に転職しました。  
 Web系の受託開発を行なっている会社にてエンジニアとしての経験を積んだ後、2022年からフリーランスに転向しています。
 
-### 業務内容
+### 業務内容 / チームとしての業務
 
 1. (株)ZABoooNにて船員労務管理SaaS(Maritime7)の開発支援
-    - 2022/12 ~ : 10ヶ月以上
+    - 2022/12 ~ : 11ヶ月以上
     - エンジニア4名のチームにて労務管理機能の機能追加や改修を担当
     - ビジネスサイドのメンバーからの要望をもとに仕様の検討や提案、実装
     - Vue.js, Vuex ORM, TypeScript, Laravel, MySQL, Buefy, Sass などを使用
 
 2. (株)Logos&Pathos Consultingにて社内向けプロジェクト管理システムの開発支援
-    - 2022/3 ~ : 1年8ヶ月以上
+    - 2022/3 ~ : 1年9ヶ月以上
     - プロジェクト管理システムの機能追加等を担当
     - 経験が少ない技術（FWや外部API）をキャッチアップしながら開発
     - TypeScript, Angular, RxJS, Firebase, Node.js, Sass などを使用
 
 3. Ambient Lab(株)にてカーシェアサイトの開発支援
-    - 2022/6 ~ 2022/11 : 5ヶ月
+    - 2022/6 ~ 2022/11 : 6ヶ月
     - エンジニア5名のチームにて画面設計、実装などを担当
     - AWS Amplifyを使ったSPAの開発を経験
     - TypeScript, Next.js, MUI, GraphQL, Docker などを使用
@@ -58,7 +54,7 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
     - Vue.js, Sass, Laravel, MySQL, Docker などを使用
 
 6. (合)DreamLinkにてWebシステム(toB)の開発
-    - 2020/5 ~ 2022/3 : 1年10ヶ月
+    - 2020/5 ~ 2022/3 : 1年11ヶ月
     - エンジニア2名（社長と自分）で幅広く開発工程を対応
     - 駐車場機器と連携するWebシステムやイベント管理を行うWebシステムを開発
     - PHP, MySQL, Linux, jQuery, React などを使用
@@ -75,6 +71,45 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
     - 画面操作のテストや簡単なプログラムの改修等を担当
     - Java, VB, JavaFX, JUit, SQLServer などを使用
 
+### 業務内容 / 個人としての業務
+
+- オンラインストアの在庫更新ツール
+    - 2023/11 : 1ヶ月
+    - オンラインストア運営をされている方から依頼で開発。
+    - 独自の在庫管理システムのデータをSTORESに反映できる機能を実装。
+    - 使用技術：TypeScript, Next.js, Tailwind CSS
+
+- 社内スケジュールを管理できるWebアプリ
+    - 2023/8 : 1ヶ月
+    - 小規模な企業の総務の方から相談があり開発。
+    - カレンダー上に部署ごと、全社、社長のスケジュールを一覧で表示できる。
+    - 使用技術：TypeScript, Next.js, Firebase, Tailwind CSS
+
+- レンタル倉庫の管理システム
+    - 2022/8 : 1ヶ月
+    - レンタル倉庫業者からの依頼でサーバーレスなWebアプリを構築。
+    - 主な機能：倉庫の一覧表示や編集。見積もりを表示する機能。
+    - 使用技術：JavaScript, Node.js, AWS(Lambda, API Gateway, DynamoDB)
+
+- 地域プログラムに参加する学生情報の管理システム
+    - 2022/5 ~ 2022/8 : 4ヶ月 
+    - Web制作の会社からの依頼で学生用画面と管理者用画面をSPAとして構築。
+    - 主な機能：認証機能、検索機能、データの一括登録、CSV出力など。
+    - 使用技術：TypeScript, React, MUI, PHP, MySQL, Docker
+
+- スキンケア商品のランキングサービス
+    - 2021/11 ~ 2022/2 : 4ヶ月 
+    - 個人の方からの依頼でランキングを表示するWebサービスを開発。
+	- 主な機能：ランキング生成、商品データインポート、カテゴリの管理など。
+	- 使用技術：TypeScript, React, Chakra UI, Laravel, Docker, Heroku, Postgres 
+
+- トレーニング履歴管理Webアプリ
+    - 2021/9 ~ 2022/1 : 5ヶ月  
+    - トレーナーのからの相談があり開発。
+	- トレーニング履歴をグラフで確認できるWebアプリ（PWA）を構築。
+    - 主な機能：ログイン。メニューの管理。履歴のグラフ表示や絞り込み表示。
+	- 使用技術：TypeScript, React, Chakra UI, Firebase, react-chartjs-2
+
 <br/>
 
 ## スキル
@@ -90,7 +125,7 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
     - Next.js, Gatsby.js, Nuxt.js などの使用経験。（2年程度）
     - Laravel 使用経験。（3年程度）
     - Node.js の使用経験。（2年程度）
-    - UIコンポーネントやCSSフレームワーク、Sass(SCSS)の使用経験。
+    - UIコンポーネントやCSSフレームワーク、Sassの使用経験。
 
 - その他
     - 保守性を意識したコーディングが得意。
@@ -111,42 +146,8 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
 
 <br/>
 
-## その他の活動
-
-### Webアプリをゼロから開発
-
-依頼を頂くことがあるので、空き時間を使って小規模なWebアプリを開発しています。
-ヒアリング・見積り・設計・デザイン・実装・デプロイ等を一人で対応してきました。
-
-- 社内スケジュールを管理できるWebアプリ
-    - 小規模な企業の担当者の方から相談があったので開発。
-    - カレンダー上に部署ごと、全社、社長のスケジュールを一覧で表示できる。
-    - 使用技術：TypeScript, Next.js, Firebase, Tailwind CSS
-    - GitHubでコードを公開：<a href="https://github.com/t-aono/board-slate" target="_blank">https://github.com/t-aono/board-slate</a>
-
-- レンタル倉庫の管理システム
-    - レンタル倉庫業者からの依頼でサーバーレスなWebアプリを構築
-    - 主な機能：倉庫の一覧表示や編集。見積もりを表示する機能。
-    - 使用技術：JavaScript, Node.js, AWS(Lambda, API Gateway, DynamoDB)
-
-- 地域プログラムに参加する学生情報の管理システム
-    - 画面デザインをもとに学生用画面と管理者用画面をSPAとして構築
-    - 主な機能：認証機能、検索機能、データの一括登録、CSV出力など。
-    - 使用技術：TypeScript, React, MUI, PHP, MySQL, Docker
-
-- スキンケア商品のランキングサービス
-	- 質問に答えるとおすすめ商品ランキングを表示するWebサービス
-	- 主な機能：ランキング生成、商品データインポート、カテゴリの管理など。
-	- 使用技術：TypeScript, React, Chakra UI, Laravel, Docker, Heroku, Postgres 
-	- GitHubでコードを公開：<a href="https://github.com/t-aono/recocare" target="_blank">https://github.com/t-aono/recocare</a>
-
-- トレーニング履歴管理Webアプリ
-	- トレーニング履歴をグラフで確認できるWebアプリ（PWA）を構築
-    - 主な機能：ログイン。メニューの管理。履歴のグラフ表示や絞り込み表示。
-	- 使用技術：TypeScript, React, Chakra UI, Firebase, react-chartjs-2
-	- GitHubでコードを公開：<a href="https://github.com/t-aono/trarec" target="_blank">https://github.com/t-aono/trarec</a>
-
-### アウトプット
+## アウトプット
 
 - GitHub : <a href="https://github.com/t-aono" target="_blank">https://github.com/t-aono</a>  
 - Zenn : <a href="https://zenn.dev/aono" target="_blank">https://zenn.dev/aono</a>
+
