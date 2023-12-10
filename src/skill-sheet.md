@@ -9,8 +9,8 @@
 ## 自己紹介
 
 Webアプリ開発のフロントエンド、バックエンドを幅広く対応できます。  
-TypeScriptでのコーディングやReact, Vueを使ったSPAの構築が得意です。  
-Node.jsやLaravelを使ったバックエンド側の実装経験もあります。
+JavaScript, TypeScript, PHPを使った実装が得意です。  
+React, Vue.js, Node.js, Laravelなどを使った開発や設計工程も経験があります。
 
 <br/>
 
