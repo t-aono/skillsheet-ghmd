@@ -13,5 +13,14 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-HPE8D90RHK"],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
   ],
 };
