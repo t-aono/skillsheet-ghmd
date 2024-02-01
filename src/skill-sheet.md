@@ -1,10 +1,10 @@
-<!-- １２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８ -->
+<!-- 
+１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８ 
+-->
 
-# 職務経歴書
+# 職務経歴
 
-<div style="text-align:right">
-    更新日: 2023/12/09
-</div>
+<div style="text-align:right">更新日: 2024/2/1</div>
 
 ## 自己紹介
 
@@ -24,22 +24,22 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
 ### 業務内容 / チームとしての業務
 
 1. (株)ZABoooNにて船員労務管理SaaS(Maritime7)の開発支援
-    - 2022/12 ~ : 11ヶ月以上
+    - 2022/12 ~ 2024/1 : 1年1ヶ月
     - エンジニア4名のチームにて労務管理機能の機能追加や改修を担当
     - ビジネスサイドのメンバーからの要望をもとに仕様の検討や提案、実装
     - Vue.js, Vuex ORM, TypeScript, Laravel, MySQL, Buefy, Sass などを使用
 
-2. (株)Logos&Pathos Consultingにて社内向けプロジェクト管理システムの開発支援
-    - 2022/3 ~ : 1年9ヶ月以上
-    - プロジェクト管理システムの機能追加等を担当
-    - 経験が少ない技術（FWや外部API）をキャッチアップしながら開発
-    - TypeScript, Angular, RxJS, Firebase, Node.js, Sass などを使用
-
-3. Ambient Lab(株)にてカーシェアサイトの開発支援
+2. Ambient Lab(株)にてカーシェアサイトの開発支援
     - 2022/6 ~ 2022/11 : 6ヶ月
     - エンジニア5名のチームにて画面設計、実装などを担当
     - AWS Amplifyを使ったSPAの開発を経験
     - TypeScript, Next.js, MUI, GraphQL, Docker などを使用
+
+3. (株)Logos&Pathos Consultingにて社内向けプロジェクト管理システムの開発支援
+    - 2022/3 ~ : 1年10ヶ月以上
+    - プロジェクト管理システムの機能追加等を担当
+    - 経験が少ない技術（FWや外部API）をキャッチアップしながら開発
+    - TypeScript, Angular, RxJS, Firebase, Node.js, Sass などを使用
 
 4. (株)grow&partnersにて一時保育の検索・予約サービス（あすいく）の開発支援
     - 2021/11 ~ 2022/5 : 7ヶ月
@@ -148,6 +148,11 @@ Web系の受託開発を行なっている会社にてエンジニアとして�
 
 ## アウトプット
 
-- GitHub : <a href="https://github.com/t-aono" target="_blank">https://github.com/t-aono</a>  
-- Zenn : <a href="https://zenn.dev/aono" target="_blank">https://zenn.dev/aono</a>
+**GitHub**  
+    <a href="https://github.com/t-aono" target="_blank">https://github.com/t-aono</a>  
+    開発したものの一部を公開しています。  
+
+**Zenn**  
+    <a href="https://zenn.dev/aono" target="_blank">https://zenn.dev/aono</a>  
+    勉強したこと記事にまとめて公開しています。
 
