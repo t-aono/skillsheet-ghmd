@@ -6,7 +6,7 @@
 
 TypeScriptを主に使用するフリーランスのエンジニアです。　　
 
-社内向け業務改善システムの開発プロジェクトにもチームメンバーとして参画しており、主に実装や技術調査を担当しています。　　
+社内向け業務改善システムの開発チームメンバーとして設計や技術調査、実装を主に担当しています。  
 
 また、個人プロジェクトとして小規模なWebアプリケーションの開発も行っています。　　
 
@@ -22,17 +22,17 @@ TypeScriptを主に使用するフリーランスのエンジニアです。　�
 
 **2021-2024**  
 複数のWebアプリやWebサービスの開発プロジェクトに参画。  
-モダンな技術のキャッチアップを行いながら、設計や実装を担当。  
+開発メンバーとして設計や実装、モダンな技術のキャッチアップ。  
 主な使用技術: TypeScript, Angular, Vue.js, React, Laravel
 
 **2019-2020**  
 Webシステムの開発に従事。  
-実装に加えて要望のヒアリング、要件の検討、画面設計、DB設計などの工程も担当。  
+実装の他にも要望のヒアリング、要件検討、画面設計、DB設計などの工程も経験。  
 主な使用技術: PHP, JavaScript, MySQL
 
 **2017-2018**  
 プログラミングやWeb技術を学びSESの会社に転職。  
-SIerの業務系システムのテストやバグ調査、改修作業などを担当。  
+SIerの業務系システムのテストやバグ調査、改修作業、ドキュメント整備などを経験。  
 主な使用技術: Java, VBA, Linux
 
 **2011-2016**   
@@ -44,63 +44,64 @@ SIerの業務系システムのテストやバグ調査、改修作業などを�
 
 1. (株)Logos&Pathos Consulting｜社内向け業務改善システム 
     - 2022/3 ~ 継続中: 2年4ヶ月
-    - 新規開発や機能改善、リニューアル、新しい技術の調査などを担当
+    - 開発メンバーとして新規開発、機能改善、リニューアルのプロジェクトに参画
+    - UIやデータモデルの設計や技術調査、フロント側やバッチ処理の実装など
     - 経験が浅い技術（フレームワーク、ライブラリ、外部API）のキャッチアップ
-    - TypeScript, Angular, RxJS, Firebase, Node.js, Sass などを使用
+    - TypeScript, Angular, RxJS, Firebase(Google Cloud), Node.js, Sass など
 
 2. 【副業】(株)ZABoooN｜船員労務管理SaaS(Maritime7)
     - 2022/12 ~ 2024/1 : 1年1ヶ月
     - フルスタックエンジニアとして労務管理機能の機能改善や新機能実装を担当
     - フロントエンド実装、開発環境の改善、API実装、DB設計
     - ビジネスサイドのメンバーからの要望をもとに仕様の検討や提案
-    - Vue.js, Vuex ORM, TypeScript, Laravel, MySQL, Buefy, Sass などを使用
+    - Vue.js, Vuex ORM, TypeScript, Laravel, MySQL, Buefy, Sass など
 
 3. 【副業】Ambient Lab(株)｜カーシェアサイト
     - 2022/6 ~ 2022/11 : 6ヶ月
-    - フロントエンドエンジニアとして画面設計、新機能実装、機能改善を担当
-    - バックエンドのFunctionの新規作成や改修
-    - TypeScript, Next.js, MUI, AWS(Amplify), GraphQL, Python などを使用
+    - PMと連携を取りながら開発メンバーとして新機能追加や機能改善などを担当
+    - UIやFunctionの検討や設計、実装
+    - TypeScript, Next.js, MUI, AWS(Amplify, Lambda), GraphQL, Python など
 
 4. 【副業】GAOGAO Pte. Ltd.｜一時保育の検索・予約サービス（あすいく）
     - 2021/11 ~ 2022/5 : 7ヶ月
     - PM1名、エンジニア3名のチームにフルスタックエンジニアとして参画
     - 起業家と同じチームとしてMVPの設計と実装
-    - Laravel, Vue.js, Figma, MySQL, Docker などを使用
+    - Laravel, Vue.js, Figma, MySQL, Docker など
 
 5. 【副業】(株)カイカタ｜ストックフォトサービス
     - 2021/5 ~ 2021/10 : 6ヶ月 
     - エンジニア3名のチームにフルスタックエンジニアとして参画
     - オーナーやメンバーと連携して仕様検討、機能追加、機能改善
-    - Vue.js, Sass, Laravel, MySQL, Docker などを使用
+    - Vue.js, Sass, Laravel, MySQL, Docker など
 
 6. (合)DreamLink｜Webシステムの受託開発
     - 2020/5 ~ 2022/3 : 1年11ヶ月
     - エンジニア2名（社長と自分）で幅広く開発工程を対応
-    - 駐車場機器と連携するWebシステムやイベント管理を行うWebシステムを開発
-    - Linux, Apache, MySQL, PHP, JavaScript, jQuery, React などを使用
+    - 駐車場機器と連携するWebシステムやイベント管理を行うWebシステムの開発
+    - Linux, Apache, MySQL, PHP, JavaScript, jQuery, React など
 
-7. (株)MCAD｜知的財産管理システム(DBBOY/uni)
+7. SES｜知的財産管理システム(DBBOY/uni)
     - 2019/5 ~ 2020/4 : 1年 
     - エンジニア4名のチームにて設計、実装、テストなどを担当
     - 設計書、テスト仕様書などのドキュメント作成や整備
-    - Linux, Apache, MySQL, PHP, JavaScript などを使用
+    - Linux, Apache, MySQL, PHP, JavaScript など
 
-8. SESにてSIerの業務系システム
+8. SES｜SIerの業務系システム
     - 2017/11 ~ 2019/4 : 1年6ヶ月
     - 病院向け薬剤管理システムや、銀行向け業務システムの保守開発チームに参画
     - 画面操作のテストや簡単なプログラムの改修等を担当
-    - Java, VB, JavaFX, JUnit, SQLServer などを使用
+    - Java, VB, JavaFX, JUnit, SQLServer など
 
 
 ### 個人での開発
 
 個人で小規模なWebアプリの開発やプログラムの実装を行っています。これまでに、クラウドソーシングサイトを通じて100件以上の依頼に対応してきました。　　
 
-開発では主にTypeScriptを使用し、フレームワークはRemixやNext.jsを活用しています。また、データベース操作にはPrismaを、スタイリングにはTailwind CSSをよく使用します。　　
+開発言語はTypeScript、フレームワークはRemixやNext.js、データベース操作にはPrisma、スタイリングにはTailwind CSSをよく使用します。　　
 
-ホスティングやデータベース管理には、Firebase、MongoDB、PlanetScale、Renderなどを利用しています。　　
+ホスティングやデータベースには、Firebase、MongoDB、PlanetScale、Renderなどを利用しています。　　
 
-最近のプロジェクト例は以下の通りです。　　
+最近のプロジェクトとしては以下のものがあります。　　
 
 - 不動産会社向け業務管理システム
 - 整骨院向け予約管理サービス
